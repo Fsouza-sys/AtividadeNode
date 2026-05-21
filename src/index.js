@@ -4,11 +4,11 @@ const port = 3000
 
 //produtos
 let produtos = [
-    { id: 1, nome: 'Shampoo' },
-    { id: 2, nome: 'Condicionador'},
-    { id: 3, nome: 'Barbeador eletrico',},
-    { id: 4, nome: 'Gilete'},
-    { id: 5, nome: 'Creme dental'},
+    { id: 1, nome: 'Shampoo', preco: 12.99 },
+    { id: 2, nome: 'Condicionador', preco: 12.99 },
+    { id: 3, nome: 'Barbeador eletrico', preco: 49.99},
+    { id: 4, nome: 'Gilete', preco: 2.99},
+    { id: 5, nome: 'Creme dental', preco: 3.99},
 ]
  
 //use json
